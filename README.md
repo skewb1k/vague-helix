@@ -1,6 +1,6 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
-  <h1>Vague for App</h1>
+  <h1>Vague for Helix</h1>
   <!-- Optional: add a preview screenshot here
   Use user-attachments instead of the assets/ folder to keep the repo minimal.
   Example:
@@ -11,10 +11,13 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `vague.theme`
-3. Select `Vague` from the themes dropdown
+1. Save [vague.toml](vague.toml) file in `~/.config/helix/themes` directory.
+
+2. Add a `theme` directive to your Helix config:
+   ```toml
+   theme = "vague"
+   ```
 
 ## Thanks to contributors
 
-- [You, it's you!](https://github.com/<username>)
+- [skewb1k](https://github.com/skewb1k)
