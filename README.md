@@ -1,12 +1,7 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
   <h1>Vague for Helix</h1>
-  <!-- Optional: add a preview screenshot here
-  Use user-attachments instead of the assets/ folder to keep the repo minimal.
-  Example:
-  <img src="https://github.com/user-attachments/assets/..." alt="Preview" />
-  Note: make sure to adjust image size if applicable
-  -->
+  <img alt="Preview" src="https://github.com/user-attachments/assets/fd8e9965-4576-4ace-ae34-e60e900c2d4d" />
 </div>
 
 ## Usage
