@@ -12,7 +12,3 @@
    ```toml
    theme = "vague"
    ```
-
-## Thanks to contributors
-
-- [skewb1k](https://github.com/skewb1k)
